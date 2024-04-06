@@ -2,14 +2,14 @@
 
 #Framework consists of:-
 
-Java 11          : &nbsp;&nbsp;   Programing language <br />
-Selenium 4.12.0  :   To automate the browser interactions.<br />
-feature File     :   To describe Test cases .<br />
-Maveen           :   Build & Dependency management<br />
-TestNg           :   testing framework ( organize and execute your Selenium tests.)<br />
-JEnkins          :   Execute the Test Cases<br />
-Git              :   source code management<br />
-Allure           :   to generate reports.
+Java 11          &nbsp;&nbsp;:    &nbsp;&nbsp;Programing language <br />
+Selenium 4.12.0  &nbsp;&nbsp;:    &nbsp;&nbsp;To automate the browser interactions.<br />
+feature File     &nbsp;&nbsp;:    &nbsp;&nbsp;To describe Test cases .<br />
+Maveen           &nbsp;&nbsp;:    &nbsp;&nbsp;Build & Dependency management<br />
+TestNg           &nbsp;&nbsp;:    &nbsp;&nbsp;testing framework ( organize and execute your Selenium tests.)<br />
+JEnkins          &nbsp;&nbsp;:    &nbsp;&nbsp;Execute the Test Cases<br />
+Git              &nbsp;&nbsp;:    &nbsp;&nbsp;source code management<br />
+Allure           &nbsp;&nbsp;:    &nbsp;&nbsp;to generate reports.
 
 
 # Project Details
