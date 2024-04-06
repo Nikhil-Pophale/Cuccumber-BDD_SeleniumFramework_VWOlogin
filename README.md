@@ -2,7 +2,7 @@
 
 #Framework consists of:-
 
-Java 11          :   Programing language <br />
+Java 11          : &nbsp;&nbsp;   Programing language <br />
 Selenium 4.12.0  :   To automate the browser interactions.<br />
 feature File     :   To describe Test cases .<br />
 Maveen           :   Build & Dependency management<br />
