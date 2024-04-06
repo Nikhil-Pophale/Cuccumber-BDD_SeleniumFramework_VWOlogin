@@ -16,9 +16,11 @@ JEnkins  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 Git      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;source code management<br />
 
-Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;:    &nbsp;&nbsp;to generate reports.
+Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;:    &nbsp;&nbsp;to generate reports.<br />
 
+![image](https://github.com/Nikhil-Pophale/Cuccumber-BDD_SeleniumFramework_VWOlogin/assets/141396302/9a4e00ec-46c8-4959-b6e4-23cd5c76fce2)
 
+<br />
 # Project Details
 - URL - https://app.vwo.com
 - Create free account and get the Username, Password.
@@ -28,8 +30,6 @@ Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 Login to App with :<br />
 2. 1 valid credentials<br />
 2. 3 Invalid Scenarios
-
-![image](https://github.com/Nikhil-Pophale/Cuccumber-BDD_SeleniumFramework_VWOlogin/assets/141396302/9a4e00ec-46c8-4959-b6e4-23cd5c76fce2)
 
 
 **Allure Report**
