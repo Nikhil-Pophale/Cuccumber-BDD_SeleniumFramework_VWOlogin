@@ -25,8 +25,8 @@ Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 ### Test case
 
-Login to App with :
-2. 1 valid credentials
+Login to App with :<br />
+2. 1 valid credentials<br />
 2. 3 Invalid Scenarios
 
 **Allure Report**
