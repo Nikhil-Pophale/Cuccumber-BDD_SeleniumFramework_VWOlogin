@@ -6,17 +6,17 @@ Java 11  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 Selenium 4.12.0  &nbsp;&nbsp;:    &nbsp;&nbsp;To automate the browser interactions.<br />
 
-feature File    &nbsp;&nbsp;:    &nbsp;&nbsp;To describe Test cases .<br />
+feature File &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;To describe Test cases .<br />
 
-Maveen           &nbsp;&nbsp;:    &nbsp;&nbsp;Build & Dependency management<br />
+Maveen  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Build & Dependency management<br />
 
-TestNg           &nbsp;&nbsp;:    &nbsp;&nbsp;testing framework ( organize and execute your Selenium tests.)<br />
+TestNg  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;testing framework ( organize and execute your Selenium tests.)<br />
 
-JEnkins          &nbsp;&nbsp;:    &nbsp;&nbsp;Execute the Test Cases<br />
+JEnkins  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Execute the Test Cases<br />
 
-Git              &nbsp;&nbsp;:    &nbsp;&nbsp;source code management<br />
+Git      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;source code management<br />
 
-Allure           &nbsp;&nbsp;:    &nbsp;&nbsp;to generate reports.
+Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;:    &nbsp;&nbsp;to generate reports.
 
 
 # Project Details
