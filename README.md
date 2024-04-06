@@ -1,14 +1,15 @@
-## CucumberBDDSeleniumTestNG
-- TheTestingAcademy - https://sdet.live
+## Cucumber-BDD_Selenium_FrameworK
 
 #Framework consists of:-
-- Java 11
-- Cucumber Java
-- Cucumber TestNG
-- TestNG
-- Maven
-- Selenium
-- Allure Reports
+
+Java 11          :   Programing language
+Selenium 4.12.0  :   To automate the browser interactions.
+feature File     :   To describe Test cases .
+Maveen           :   Build & Dependency management
+TestNg           :   testing framework ( organize and execute your Selenium tests.)
+JEnkins          :   Execute the Test Cases
+Git              :   source code management
+Allure           :   to generate reports.
 
 
 # Project Details
@@ -17,7 +18,7 @@
 
 ### Test case
 
-Login to App
+Login to App with :
 2. 1 valid credentials
 2. 3 Invalid Scenarios
 
