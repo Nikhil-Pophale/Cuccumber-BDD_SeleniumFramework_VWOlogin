@@ -18,8 +18,6 @@ Git      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;:    &nbsp;&nbsp;to generate reports.<br />
 
-![image](https://github.com/Nikhil-Pophale/Cuccumber-BDD_SeleniumFramework_VWOlogin/assets/141396302/9a4e00ec-46c8-4959-b6e4-23cd5c76fce2)
-
 <br />
 # Project Details
 - URL - https://app.vwo.com
@@ -31,7 +29,7 @@ Login to App with :<br />
 2. 1 valid credentials<br />
 2. 3 Invalid Scenarios
 
-**Framework Overview**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Framework Overview**<br />
 ![Untitled design (1)](https://github.com/Nikhil-Pophale/Cuccumber-BDD_SeleniumFramework_VWOlogin/assets/141396302/e287db25-fb25-4363-8742-9c00fe5c4365)
 
 
