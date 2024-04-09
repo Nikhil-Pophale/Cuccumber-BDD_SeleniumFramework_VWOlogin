@@ -31,6 +31,9 @@ Login to App with :<br />
 2. 1 valid credentials<br />
 2. 3 Invalid Scenarios
 
+**Framework Overview**<br />
+![Untitled design (1)](https://github.com/Nikhil-Pophale/Cuccumber-BDD_SeleniumFramework_VWOlogin/assets/141396302/e287db25-fb25-4363-8742-9c00fe5c4365)
+
 
 **Allure Report**<br />
 
