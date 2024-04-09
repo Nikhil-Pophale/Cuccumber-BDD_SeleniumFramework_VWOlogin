@@ -21,7 +21,9 @@ Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 <br />
 # Project Details<br />
 - URL - https://app.vwo.com<br />
-- Create free account and get the Username, Password.<br />
+- Create free account and get the Username, Password.
+-
+<br />
 
 **Test case**<br />
 Login to App with :<br />
