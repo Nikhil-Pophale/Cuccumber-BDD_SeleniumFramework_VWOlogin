@@ -23,13 +23,13 @@ Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 - URL - https://app.vwo.com
 - Create free account and get the Username, Password.
 
-### Test case
+**Test case**
 
 Login to App with :<br />
 2. 1 valid credentials<br />
 2. 3 Invalid Scenarios
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Framework Overview**<br />
+###**Framework Overview**<br />
 ![Untitled design (1)](https://github.com/Nikhil-Pophale/Cuccumber-BDD_SeleniumFramework_VWOlogin/assets/141396302/e287db25-fb25-4363-8742-9c00fe5c4365)
 
 
