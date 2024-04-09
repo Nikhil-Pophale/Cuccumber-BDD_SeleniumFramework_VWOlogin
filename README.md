@@ -23,7 +23,7 @@ Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 - URL - https://app.vwo.com
 - Create free account and get the Username, Password.
 
-**Test case**
+**Test case**<br />
 Login to App with :<br />
 2. 1 valid credentials<br />
 2. 3 Invalid Scenarios
