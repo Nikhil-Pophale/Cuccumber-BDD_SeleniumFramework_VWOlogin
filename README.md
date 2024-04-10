@@ -1,6 +1,6 @@
 ## Cucumber-BDD_Selenium_FrameworK
 
-#Framework consists of:-
+# Framework consists of:-
 
 Java 11  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Programing language <br />
 
@@ -16,19 +16,20 @@ JEnkins  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 Git      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;source code management<br />
 
-Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;:    &nbsp;&nbsp;to generate reports.<br />
+Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;to generate reports.<br />
 
 <br />
-# Project Details<br />
+**Project Details**<br />
 - URL - https://app.vwo.com<br />
 - Create free account and get the Username, Password.
--
 <br />
+
 
 **Test case**<br />
 Login to App with :<br />
-2. 1 valid credentials<br />
-2. 3 Invalid Scenarios
+
+1 Login with valid credentials<br />
+2 Login with Invalid Scenarios
 
 **Framework Overview**<br />
 ![Untitled design (1)](https://github.com/Nikhil-Pophale/Cuccumber-BDD_SeleniumFramework_VWOlogin/assets/141396302/e287db25-fb25-4363-8742-9c00fe5c4365)
